@@ -87,3 +87,9 @@ print(student_name.count("a"))
 print(student_name.isdigit())
 
 print(student_name.isalpha())
+
+
+
+print(student_name[0:7])
+
+print(student_name[::-1])
