@@ -1,7 +1,6 @@
 
 # TO-DO LIST MANAGER
 
-# Original tasks from trainer's PPT
 tasks = [
     {"title": "Buy groceries", "done": False},
     {"title": "Finish Python assignment", "done": True},
